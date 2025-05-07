@@ -132,3 +132,12 @@ Ao colocar essas recomendações em prática, com base nos dados analisados, a g
 
 
 </details>
+
+<details>
+<summary><strong style="font-size: 16px;">Links</strong></summary>
+
+[Video - Apresentação](https://drive.google.com/file/d/1QioYW9oOS9xU7kyGWUXgmGs0qZQvsTdG/view?usp=drive_link)
+
+[Apresentação slides](https://www.canva.com/design/DAGmrlpxeh8/UjQffDh3Tw_jOiMg0YrKjw/edit)
+
+</details>
