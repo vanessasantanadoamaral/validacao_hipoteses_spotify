@@ -4,7 +4,7 @@ Projeto de análise de dados e validação de hipóteses "Spotify".
   <details>
   <summary><strong style="font-size: 16px;">Ferramentas e Tecnologias</strong></summary>
    
-  - BigQuery (Google Colab)
+  - BigQuery (Google Cloud)
   - SQL
   - Power BI
   - Python
